@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">numeroMayor</string>
+    <string name="lb_saludo">¿Cual será el mayor?</string>
+    <string name="txt1">primero:</string>
+    <string name="txt2">segundo:</string>
+    <string name="btn_mayor">Mayor</string>
+    <string name="lbresultado">resultado</string>
+</resources>
